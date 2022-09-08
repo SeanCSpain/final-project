@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&family=Pompiere&display=swap');
+
+* {
+    font-family: 'Amaranth', sans-serif;
+    font-family: 'Pompiere', cursive;
+}
